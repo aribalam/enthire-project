@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+var sql = require('../db');
+var app = require('../app');
+var port = 5000;
+
+sql.connect((err) => {
+    if (err) throw err;
+});
+
+app.listen(port, () => {
+    console.log(`running at port: ${port}`);
+});
