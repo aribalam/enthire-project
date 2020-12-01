@@ -7,7 +7,7 @@ MYSQL has been used as the Database.
 
 ## Database creation
 
-Use the following commands to create the database and necessary tables in MySQL
+Use the following commands to create the database and necessary tables in the MySQL workspace -
 
 ```
 CREATE DATABASE enthire;
