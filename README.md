@@ -38,3 +38,13 @@ Open a new terminal and start the frontend server with the following -
 ```
 cd frontend && npm start
 ```
+
+## Preview
+
+The Login Page - 
+
+![](https://raw.githubusercontent.com/aribalam/enthire-project/assets/pic2.png?token=AEZKQYH7XZBNLFKXQDMVHF27Z7IT6)
+
+The Home Page - 
+
+![](https://raw.githubusercontent.com/aribalam/enthire-project/assets/pic1.png?token=AEZKQYCPPW656HQSIODSKJ27Z7IOK)
