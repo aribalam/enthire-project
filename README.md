@@ -11,7 +11,7 @@ Use the following commands to create the database and necessary tables in the My
 
 ```
 CREATE DATABASE enthire;
-
+USE enthire;
 CREATE TABLE users (
     id varchar(255),
     name varchar(255),
